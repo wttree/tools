@@ -1,18 +1,4 @@
-# 大前端工具集
-
-<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
-
-> 本篇文章记录了一枚程序猿的百宝箱。
-
-> 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
-
-#### 您可以通过以下方式联系到我：
-- 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
-- 个人Blog [fefork.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
-- 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
-- QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
-
----
+# 工具集 摘自nieweidong
 
 ## 目录
 - [前端组织](#org)
